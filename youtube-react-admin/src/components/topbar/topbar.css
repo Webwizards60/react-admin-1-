@@ -16,9 +16,8 @@
 }
 
 .logo {
-  font-weight: bold;
-  font-size: 30px;
-  color: darkblue;
+  height: 40px;
+  width: auto;
   cursor: pointer;
 }
 

@@ -1,18 +1,12 @@
 .qr {
-<<<<<<< Updated upstream
   width: 500px;
   height: 500px;
-
-=======
   width: 450px;
   height: 450px;
->>>>>>> Stashed changes
   margin: auto;
   width: 50%;
   border: 3px solid rgb(19, 134, 216);
   padding: 10px;
-<<<<<<< Updated upstream
-=======
   display: flex;
   justify-content: center;
   align-items: center;
@@ -23,5 +17,4 @@
   display: flex;
   justify-content: center;
   align-items: center;
->>>>>>> Stashed changes
 }
